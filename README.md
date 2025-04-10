@@ -39,3 +39,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 ### TMDB
 
 Courtesy to the team at [https://developer.themoviedb.org/](TMDB) for the free tier usage and ease to understand documentation, the app performs a `GET` request to the API to fetch the top rated movies, a `GET` request to fetch a movie detail page and lastly, another `GET` request to make a simple search of [https://themoviedb.org/](TMDB) database.
+Test für CI ohne EC2
